@@ -1,6 +1,6 @@
 # Monthly Data Expansion
 
-### This script uses the output of the [Pattern Extraction](http://example.org/) script. 
+### This script uses the output of the [Pattern Extraction](https://github.com/rodrigocantu/data-manipulation-scripts/tree/main/Pattern%20Extraction) script. 
 
 ## Problem
 You have a dataframe of monthly demands per attribute and location. However, you need to expand these **monthly values** into **daily values** given a column vector of normalized scalars that describe the demand patterns for each month.
