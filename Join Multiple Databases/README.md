@@ -1,4 +1,4 @@
-# Monthly Data Expansion
+# Join Multiple Databases
 
 ## Problem
 You have multiple datasets with the same formatting and wish to join them into a single master dataframe.
