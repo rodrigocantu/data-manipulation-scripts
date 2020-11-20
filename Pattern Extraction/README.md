@@ -1,6 +1,6 @@
 # Monthly Pattern Extraction of Hourly Values
 
-### This script uses the output of the [Join Multiple Databases](http://example.org/) script.
+### This script uses the output of the [Join Multiple Databases](https://github.com/rodrigocantu/data-manipulation-scripts/tree/main/Join%20Multiple%20Databases) script.
 
 ## Problem
 You have several monthly databases comprised of two vector columns.
