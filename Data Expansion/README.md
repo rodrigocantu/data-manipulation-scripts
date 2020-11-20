@@ -5,6 +5,8 @@
 ## Problem
 You have a dataframe of monthly demands per attribute and location. However, you need to expand these **monthly values** into **daily values** given a column vector of normalized scalars that describe the demand patterns for each month.
 
+![Example of Data Expansion](https://github.com/rodrigocantu/data-manipulation-scripts/blob/main/Data%20Expansion/img/figure.JPG?raw=true)
+
 ## Objective
 To generate an expanded dataframe of **daily values** per attribute and location.
 
